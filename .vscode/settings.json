@@ -1,0 +1,5 @@
+{
+    "python.poetryPath": "socialdist/bin/python",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintEnabled": true
+}
