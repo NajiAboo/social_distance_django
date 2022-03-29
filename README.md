@@ -2,4 +2,4 @@
 social distance using yolov5
 
 # Video
-[![IMAGE ALT TEXT HERE](talkinghead.png)](https://youtu.be/m3YjECN1Bt4)
+[![IMAGE ALT TEXT HERE](socialdistance.png)](https://youtu.be/m3YjECN1Bt4)
